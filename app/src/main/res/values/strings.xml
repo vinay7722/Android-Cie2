@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Cie_2</string>
+    <string name="getregister">Not a member yet? Get Register.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="already_a_member_sign_in">Already a member? Sign In</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="register_form">Registration Form</string>
+    <string name="add_entry">ADD Entry</string>
+    <string name="fuel_data_entry">Fuel Data Entry</string>
+    <string name="average">Average</string>
+    <string name="currentodometerreading">CurrentOdometerReading</string>
+    <string name="rupeesperlitre">RupeesPerLitre</string>
+    <string name="volume">Volume</string>
+    <string name="date">Date</string>
+    <string name="register_name">Enter UserName</string>
+
+
+    <string-array name="appside">
+        <item id="Driver">As Driver Side</item>
+        <item id="Admin">As Admin Side</item>
+
+    </string-array>
+</resources>
